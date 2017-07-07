@@ -1,5 +1,6 @@
 # react-native-clear-cache
 react native 清除缓存第三方库
+![Mou icon1](/assets/a1.gif)
 ### 导出方法
 - `getCacheSize` - 获取缓存大小
     - `@callBack` - Function - 回调函数
@@ -64,6 +65,11 @@ react native 清除缓存第三方库
 #使用方法
 ## npm i react-native-clear-cache -save
 
+##自动配置
+执行此命令
+#### react-native link
+
+##手动配置
 ####android配置
 1. 设置 `android/setting.gradle`
 
