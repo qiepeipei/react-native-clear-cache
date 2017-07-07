@@ -65,12 +65,12 @@ react native 清除缓存第三方库
 #使用方法
 ## npm i react-native-clear-cache -save
 
-##自动配置
+## 自动配置
 执行此命令
 #### react-native link
 
-##手动配置
-####android配置
+## 手动配置
+#### android配置
 1. 设置 `android/setting.gradle`
 
     ```
