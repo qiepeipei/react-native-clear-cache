@@ -62,7 +62,7 @@ react native 清除缓存第三方库
       }
       
       
-#使用方法
+# 使用方法
 ## npm i react-native-clear-cache -save
 
 ## 自动配置
@@ -112,7 +112,7 @@ react native 清除缓存第三方库
     }
     ```
 
-###ios配置
+### ios配置
 
 1. 右键 Libraries 选择Add Files To "项目名" 进入../node_modules/react-native-clear-cache/ios/目录 选择RCTClearCacheModule.xcodeproj 添加
 
